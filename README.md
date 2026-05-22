@@ -23,7 +23,7 @@ captures, état du budget, dépenses effectuées…)
 - Données statistiques.
 #### Schéma de base :
 
-![Shéma relationnel de la base Stagate.sqlite]("./Schéma_Stragate.png")
+![Shéma relationnel de la base Stagate.sqlite]("./Stragate.png")
 
 ---
 ## Fonctionnalités détaillées
