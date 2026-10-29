@@ -1,0 +1,104 @@
+C:\Users\krivoy\Documents\uniDocs\University-projects\D21Ado\localExos\StarGate\sae2.4_2026\projetStarGate\bin\Debug\projetStarGate.exe.config
+C:\Users\krivoy\Documents\uniDocs\University-projects\D21Ado\localExos\StarGate\sae2.4_2026\projetStarGate\bin\Debug\projetStarGate.exe
+C:\Users\krivoy\Documents\uniDocs\University-projects\D21Ado\localExos\StarGate\sae2.4_2026\projetStarGate\bin\Debug\projetStarGate.pdb
+C:\Users\krivoy\Documents\uniDocs\University-projects\D21Ado\localExos\StarGate\sae2.4_2026\projetStarGate\bin\Debug\System.Data.SQLite.dll
+C:\Users\krivoy\Documents\uniDocs\University-projects\D21Ado\localExos\StarGate\sae2.4_2026\projetStarGate\bin\Debug\System.Data.SQLite.xml
+C:\Users\krivoy\Documents\uniDocs\University-projects\D21Ado\localExos\StarGate\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.csproj.AssemblyReference.cache
+C:\Users\krivoy\Documents\uniDocs\University-projects\D21Ado\localExos\StarGate\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.Properties.Resources.resources
+C:\Users\krivoy\Documents\uniDocs\University-projects\D21Ado\localExos\StarGate\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.csproj.GenerateResource.cache
+C:\Users\krivoy\Documents\uniDocs\University-projects\D21Ado\localExos\StarGate\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.csproj.CoreCompileInputs.cache
+C:\Users\krivoy\Documents\uniDocs\University-projects\D21Ado\localExos\StarGate\sae2.4_2026\projetStarGate\obj\Debug\projetSt.89CBCFE0.Up2Date
+C:\Users\krivoy\Documents\uniDocs\University-projects\D21Ado\localExos\StarGate\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.exe
+C:\Users\krivoy\Documents\uniDocs\University-projects\D21Ado\localExos\StarGate\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.pdb
+C:\Users\krivoy\Documents\uniDocs\University-projects\D21Ado\localExos\StarGate\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.frmAccueil.resources
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.csproj.AssemblyReference.cache
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.frmAccueil.resources
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.Alien.resources
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.Creation_Mission.resources
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.Login.resources
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.Membre.resources
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.Statistiques.resources
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.csproj.GenerateResource.cache
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\projetStarGate.exe.config
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\projetStarGate.exe
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\projetStarGate.pdb
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\BCrypt.Net-Next.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\System.Buffers.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\System.Data.SQLite.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\System.Memory.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\System.Numerics.Vectors.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\BCrypt.Net-Next.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\System.Buffers.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\System.Data.SQLite.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\System.Memory.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\System.Numerics.Vectors.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.csproj.CoreCompileInputs.cache
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetSt.89CBCFE0.Up2Date
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.exe
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.pdb
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.exe.config
+\\vfiler-ad-etu.ad.unistra.fr\HOME\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.Properties.Resources.resources
+U:\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.csproj.AssemblyReference.cache
+U:\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.Alien.resources
+U:\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.Properties.Resources.resources
+U:\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.csproj.GenerateResource.cache
+U:\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.csproj.CoreCompileInputs.cache
+U:\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\projetStarGate.exe.config
+U:\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\projetStarGate.exe
+U:\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\projetStarGate.pdb
+U:\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\BCrypt.Net-Next.dll
+U:\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\BouncyCastle.Cryptography.dll
+U:\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\itextsharp.dll
+U:\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\System.Buffers.dll
+U:\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\System.Data.SQLite.dll
+U:\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\System.Memory.dll
+U:\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\System.Numerics.Vectors.dll
+U:\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+U:\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\BCrypt.Net-Next.xml
+U:\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\BouncyCastle.Cryptography.xml
+U:\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\itextsharp.xml
+U:\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\System.Buffers.xml
+U:\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\System.Data.SQLite.xml
+U:\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\System.Memory.xml
+U:\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\System.Numerics.Vectors.xml
+U:\Bureau\D21\sae2.4_2026\projetStarGate\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+U:\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetSt.89CBCFE0.Up2Date
+U:\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.exe
+U:\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.pdb
+U:\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.exe.config
+U:\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.frmAccueil.resources
+U:\Bureau\D21\sae2.4_2026\projetStarGate\obj\Debug\projetStarGate.Creation_Mission.resources
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\bin\Debug\projetStarGate.exe.config
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\bin\Debug\projetStarGate.exe
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\bin\Debug\projetStarGate.pdb
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\bin\Debug\itextsharp.dll
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\bin\Debug\System.Buffers.dll
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\bin\Debug\System.Data.SQLite.dll
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\bin\Debug\System.Memory.dll
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\bin\Debug\itextsharp.xml
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\bin\Debug\System.Buffers.xml
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\bin\Debug\System.Data.SQLite.xml
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\bin\Debug\System.Memory.xml
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\obj\Debug\projetStarGate.csproj.AssemblyReference.cache
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\obj\Debug\projetStarGate.frmAccueil.resources
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\obj\Debug\projetStarGate.Alien.resources
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\obj\Debug\projetStarGate.Creation_Mission.resources
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\obj\Debug\projetStarGate.frmPlanetes.resources
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\obj\Debug\projetStarGate.frmRaces.resources
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\obj\Debug\projetStarGate.Properties.Resources.resources
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\obj\Debug\projetStarGate.csproj.GenerateResource.cache
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\obj\Debug\projetStarGate.csproj.CoreCompileInputs.cache
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\obj\Debug\projetSt.89CBCFE0.Up2Date
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\obj\Debug\projetStarGate.exe
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\obj\Debug\projetStarGate.pdb
+C:\Users\lusht\OneDrive\Desktop\sae2.4 - projetStarGate (LUSHTAKU DOVBYSH CHARGUI)\projetStarGate\obj\Debug\projetStarGate.Membre.resources

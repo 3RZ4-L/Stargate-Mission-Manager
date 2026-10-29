@@ -23,7 +23,7 @@ captures, état du budget, dépenses effectuées…)
 - Données statistiques.
 #### Schéma de base :
 
-![Shéma relationnel de la base Stagate.sqlite]("Stragate.png")
+![Schéma relationnel de la base Stargate.sqlite](Stargate.png)
 
 ---
 ## Fonctionnalités détaillées
@@ -84,4 +84,22 @@ Affiche les statistices globales de la base SQLite:
 - Contient : dates, responsable, budget, feuille de route, membres, journal, dépenses, contacts, bilan des captures
 
 ---
+
+## Répartition du travail
+
+Ce projet a été réalisé en équipe. La répartition des fonctionnalités est la suivante :
+
+### Parties réalisées par moi-même
+- **Partie 1 — Tableau de bord des missions**
+- **Partie 2 — Création d'une nouvelle mission (admin uniquement)**
+- **Partie 6 — Statistiques avancées**
+
+### Parties réalisées par mes coéquipiers
+- **Partie 3 — Récapitulatif complet d'une mission**
+- **Partie 4 — Visualisation des races répertoriées**
+- **Partie 5 — Informations sur les planètes**
+- **Partie 7 — Export PDF**
+
+---
+
 Projet réalisé dans le cadre du département informatique de l'IUT Robert Schuman.
